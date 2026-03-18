@@ -4,6 +4,10 @@
   "description": "Easily add fun dot art and ASCII art to your code with automatic comments!", 
   "publisher": "arch1e",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "engines": {
     "vscode": "^1.109.0"
   },
