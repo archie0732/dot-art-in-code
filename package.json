@@ -2,11 +2,12 @@
   "name": "dot-art-in-code",
   "displayName": "Dot Art in Code",
   "description": "Easily add fun dot art and ASCII art to your code with automatic comments!", 
-  "publisher": "arch1e",
-  "version": "0.0.1",
+  "publisher": "arch1e0732",
+  "version": "0.0.2",
+  "icon": "/icons.png",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/archie0732/dot-art-in-code"
   },
   "engines": {
     "vscode": "^1.109.0"
